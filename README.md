@@ -1,2 +1,2 @@
-# hendersons.github.io
-edtech page
+# hendersonsedutech.github.io
+GitHub Pages
